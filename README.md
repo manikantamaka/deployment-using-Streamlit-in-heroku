@@ -1,2 +1,2 @@
-# deployment-using-flasgger-in-heroku
+# deployment-using-Streamlit-in-heroku
 deployment demo
