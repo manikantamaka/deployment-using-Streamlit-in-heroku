@@ -2,11 +2,11 @@
 1. Took some random Datset.
 2. Did Modelling.
 3. saved in pickle.
-.Built web application using Streamlit.
+4.Built web application using Streamlit.
 #### Download Heroku in your Windows/Mac systems
-.Create Account.
-.Connect your Github repository to Heroku.
-.Select Automatic/Manual.
-.Run the command .
+1.Create Account.
+2.Connect your Github repository to Heroku.
+3.Select Automatic/Manual.
+4.Run the command .
 
 .
